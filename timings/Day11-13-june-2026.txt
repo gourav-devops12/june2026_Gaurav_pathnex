@@ -2,7 +2,7 @@
 
 ## Completed Today
 - 30 min class Linux practice
-- 2 hours online kubernetes class 2 
+- 3 hours online kubernetes class 3
 - 4 hours learning kubernetes learn 
 - 30 min evening class
 - 30 min introduction video record
@@ -11,7 +11,7 @@
 
 ## Plan for Tomorrow
 - 30 min Linux practice
-- 3 hours kubernetes class 3 
+- 3 hours kubernetes class 4
 - 4 hours kubernetes learn  
 - 2 hours practise the yml file and write the yml 
 - 30 introduction video 
