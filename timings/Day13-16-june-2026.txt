@@ -2,7 +2,7 @@
 
 ## Completed Today
 
-- 4 hours learning kubernetes learn 
+- 5 hours learning kubernetes learn 
 - 30 min evening class
 - 30 min introduction video record
 - 1 hour code push to GitHub
@@ -10,9 +10,10 @@
 
 ## Plan for Tomorrow
 - 30 min Linux practice
-- 3 hours helm started
+- 3 hours helm started online class - 2
 - 4 hours kubernetes learn 
 - 2 hour + helm  
 - 30 introduction video 
 - 1 hour code push to GitHub
 - 1 hour english practise
+- 1 hour english speaking 
