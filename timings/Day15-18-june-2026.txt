@@ -2,19 +2,20 @@
 
 ## Completed Today
 
-- 30 min linux 
-- 2 hour morning class learn argocd 
-- 6 hour learn kubernetes + watch video previous 
-- 30 min evening class
-- 2 hour learn helm 
-- 30 min introduction video record
-- 1 hour code push to GitHub
-
-## Plan for Tomorrow
 - 30 min Linux practice
 - 3 hours terraform moring online class - 1
 - 4 hours kubernetes learn + argo cd 
 - 2 hour + argoCD  
+- 30 introduction video 
+- 1 hour code push to GitHub
+- 30 min evening class 
+
+
+## Plan for Tomorrow
+- 30 min Linux practice
+- 3 hours terraform moring online class - 2
+- 4 hours kubernetes learn + terraform  
+- 2 hour + terraform + argocd 
 - 30 introduction video 
 - 1 hour code push to GitHub
 - 30 min evening class 
