@@ -1,0 +1,11 @@
+# Daily Progress Report
+
+## Completed Today
+
+- 30 min Linux practice
+- 4 hours kubernetes learn + argo cd 
+
+
+## Plan for Tomorrow
+- 4 hours kubernetes learn only + do  real project   only kuberentes
+- 1 hour code push to GitHub
